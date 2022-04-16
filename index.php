@@ -34,6 +34,7 @@ if (isset($_POST['submit'])) { // Check press or not Post Comment Button
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/jpg" href="images/background-removebg-preview.png"/>
     <title>Nait-Akli Sami</title>
     <!-- bootstrap css -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -54,7 +55,7 @@ if (isset($_POST['submit'])) { // Check press or not Post Comment Button
       <div class="container">
         <!-- brand -->
         <div class="logo">
-        <img src="images/background.jpg" height="100px" width="100px">
+        <img src="images/background-removebg-preview.png" height="100px" width="100px">
       </div>
         <a href="index.html" class="navbar-brand">Nait-Akli Sami</a>
         <!-- toggler/collapsible button -->
